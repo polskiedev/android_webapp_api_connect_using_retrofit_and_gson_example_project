@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login App (Retrofit+Gson)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="pref_file">com.polskiedev.preference_file</string>
+    <string name="pref_login_status">com.polskiedev.preference_login_status</string>
+    <string name="pref_username">com.polskiedev.preference_username</string>
+</resources>
